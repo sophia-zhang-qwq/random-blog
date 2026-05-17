@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intro to Setting Up VPN"
-date: 2026-05-18
+date: 2026-05-17
 categories: networking vpn
 ---
 This guide explains how to set up a working VPN for beginners. 
