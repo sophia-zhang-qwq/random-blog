@@ -32,9 +32,10 @@ The idea is using GlaDOS as client provider, Clash Verge as node. You can think 
 # Step 3: MacOS
 
 - For MacOS mac chips, most of the listed Clash are not well maintained. MacOS intel chips maybe work.
-For eg, ClashMac involves download mihomo separately(mihoyo start:D),replace url locally and move to core. But ClashMac and mihomo are badly documenting, with system compatibility not as described and need to by-pass security issue. FLClash are only for intel and win etc. Highly suggest to use Clash Verge(https://github.com/clash-verge-rev/clash-verge-rev)
+For eg, ClashMac involves download mihomo separately(mihoyo start:D),replace url locally and move to core. But ClashMac and mihomo are badly documented, with system compatibility not as described and need to by-pass security issue. FLClash are only for intel and win etc.
+Highly suggest to use Clash Verge(https://github.com/clash-verge-rev/clash-verge-rev)
 - Doanload Clash Verge at their github(https://github.com/clash-verge-rev/clash-verge-rev/releases)
-  Open Clash Verge,
+- Open Clash Verge,
     - type your identifier on Subscription.
     - open System Monitor.
 - Connect!
