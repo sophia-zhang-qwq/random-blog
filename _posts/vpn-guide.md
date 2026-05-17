@@ -15,7 +15,7 @@ The idea is using GlaDOS as client provider, Clash Verge as node. You can think 
 - At Subscription&Management, switch the default area and save your personal url. Pay of course.
 - Most listed Clash are not working but you can try.
 
-![Step 1](../assets/vpn-1.jpg)
+![Step 1](../assets/vpn/vpn-1.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ The idea is using GlaDOS as client provider, Clash Verge as node. You can think 
 - Connect！
 
 
-![Step 2](../assets/vpn-2.jpg)
+![Step 2](../assets/vpn/svpn-2.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Highly suggest to use Clash Verge(https://github.com/clash-verge-rev/clash-verge
     - open System Monitor.
 - Connect!
 
-![Step 2](../assets/vpn-3.png)
+![Step 2](../assets/vpn/vpn-3.png)
 
 ---
 
