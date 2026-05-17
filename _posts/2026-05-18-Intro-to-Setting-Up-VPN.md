@@ -25,7 +25,7 @@ The idea is using GlaDOS as client provider, Clash Verge as node. You can think 
 - Connect！
 
 
-![Step 2](../assets/vpn/svpn-2.jpg)
+![Step 2](../assets/vpn/vpn-2.jpg)
 
 ---
 
