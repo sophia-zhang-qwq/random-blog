@@ -16,6 +16,8 @@ Builder Philosophy *(Builder·中二发言)*
 - **Networks**
   - Intro: Connect to VPN Guide(GLaDOS,Clash Verge,iOS&MacOS)
   - Windows Edition(感谢某位好心人, Coming Soon)
-- **神奇脑洞**
-  - 魔王军绝密文件：关于千年老六与文明知识管理的Bug分析.pdf
+- **Demon Scholar**
+  - Download pdf《魔王军绝密文件：关于千年老六与文明知识管理的Bug分析》
+- **Automation**
+  - SB,有Alpha吗?(自动化价格追踪Bot)
 
