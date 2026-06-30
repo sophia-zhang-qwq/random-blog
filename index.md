@@ -9,8 +9,11 @@ Welcome.
 
 希望其中有一篇，刚好能帮到你,或者让你笑一下,那就最好不过了。
 
-Builder Philosophy *(Builder·中二发言)*
-> If a problem annoys me more than 3 times, it shall cease to exist.
+### ⚔ Builder Philosophy(Builder·中二发言)
+
+> *If a problem annoys me more than 3 times,*
+>
+> **it shall cease to exist.**
 
 ## Topics:
 - **Networks**
