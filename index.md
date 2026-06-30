@@ -4,16 +4,18 @@ title: Sophia's Notes
 ---
 
 Welcome. 
+
 这里是一些教程、踩坑记录、以及偶尔出现的神奇脑洞。
 
 希望其中有一篇，刚好能帮到你,或者让你笑一下,那就最好不过了。
 
-> **Builder Philosophy (Builder·中二发言)**
->
-> *If a problem annoys me more than 3 times, it shall cease to exist.*
+Builder Philosophy *(Builder·中二发言)*
+> If a problem annoys me more than 3 times, it shall cease to exist.
 
 ## Topics:
 - **Networks**
   - Intro: Connect to VPN Guide(GLaDOS,Clash Verge,iOS&MacOS)
   - Windows Edition(感谢某位好心人, Coming Soon)
+- **神奇脑洞**
+  - 魔王军绝密文件：关于千年老六与文明知识管理的Bug分析.pdf
 
