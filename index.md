@@ -16,12 +16,12 @@ Welcome.
 > **it shall cease to exist.**
 
 ## Topics:
-- **Networks**
+- 🌐 **Networks**
   - Intro: Connect to VPN Guide(GLaDOS,Clash Verge,iOS&MacOS)
   - Windows Edition(感谢某位好心人, Coming Soon)
-- **Demon Scholar**
+- 👹 **Demon Scholar**
   - Download pdf《魔王军绝密文件：关于千年老六与文明知识管理的Bug分析》
-- **Automation**
+- 🤖 **Automation**
   - SB,有Alpha吗?(自动化价格追踪Bot)
 
 
@@ -40,7 +40,6 @@ Welcome.
   <input type="submit" value="Subscribe" />
   <p>
     <a href="https://buttondown.com/refer/sophiazhang" target="_blank">
-      Powered by Buttondown.
     </a>
   </p>
 </form>
