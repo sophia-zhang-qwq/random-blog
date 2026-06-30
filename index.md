@@ -24,3 +24,24 @@ Welcome.
 - **Automation**
   - SB,有Alpha吗?(自动化价格追踪Bot)
 
+
+### 📮 Subscribe
+
+如果你喜欢这些教程、踩坑记录或者神奇脑洞，
+欢迎留下邮箱。更新的时候我会发邮件通知。
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/sophiazhang"
+  method="post"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/sophiazhang" target="_blank">
+      Powered by Buttondown.
+    </a>
+  </p>
+</form>
+
