@@ -11,9 +11,7 @@ Welcome.
 
 ### ⚔ Builder Philosophy(Builder·中二发言)
 
-> *If a problem annoys me more than 3 times,*
->
-> **it shall cease to exist.**
+> *If a problem annoys me more than 3 times, it shall cease to exist.*
 
 ## Topics:
 - 🌐 **Networks**
