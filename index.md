@@ -15,9 +15,8 @@ Welcome.
 
 ## Topics:
 - 🌐 **Networks**
-  - Intro: Connect to VPN Guide(GLaDOS,Clash Verge,iOS&MacOS)
-  - [Set Up VPN (GLaDOS · Clash Verge · iOS/macOS)]({{ "/vpn/" | relative_url }})
-  - Windows Edition(感谢某位好心人, Coming Soon)
+  - [Set Up VPN (GLaDOS · Clash Verge · iOS/MacOS)]({{ "/vpn/" | relative_url }})
+  - Set Up VPN(Windows Edition)(感谢某位好心人, Coming Soon)
 - 👹 **Demon Scholar**
   - Download pdf《魔王军绝密文件：关于千年老六与文明知识管理的Bug分析》
 - 🤖 **Automation**
